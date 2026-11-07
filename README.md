@@ -3,3 +3,7 @@ Self-taught developer, programming since 1990 and working at it since 2001: web,
 ## Building
 
 **[Noaidi](https://github.com/Thorwegian/noaidi-fpga-synth)** — FPGA polyphonic synthesizer on the Tang Nano 20K in SystemVerilog.
+
+## Elsewhere
+
+[YouTube](https://www.youtube.com/@RealThorwegian) · [X](https://x.com/RealThorwegian)
